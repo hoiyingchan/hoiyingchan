@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🌱 I'm currently learning about git so this my own little private sandbox :)
+
 <!--
 **hoiyingchan/hoiyingchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
